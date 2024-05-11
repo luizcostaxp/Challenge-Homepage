@@ -13,7 +13,7 @@ Make a News homepage of a fictional website so similar to the example as possibl
 
 ### What I learned
 
-Solving this challenge I learned a lot of HTML and CSS properties and usages. I also learned some methods to make the developing process easier like the division of the page in containers and make the HTML first and then the CSS. 
+While solving this challenge I learned a lot of HTML and CSS properties and usages. I also learned some methods to make the developing process easier like the division of the page in containers and make the HTML first and then the CSS. 
 
 
 ### Useful resources
